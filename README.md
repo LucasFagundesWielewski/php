@@ -43,6 +43,11 @@ O repositório é organizado da seguinte forma:
 - **WEBSITE**: Projeto de criação de um website simples em PHP.
 - **GD**: Exemplos de manipulação de imagens com a biblioteca GD em PHP.
 
+## Pré-Requisitos
+
+- Servidor web local como XAMPP.
+- Banco de dados MySQL e/ou SQL Server.
+
 ## Como Usar
 
 Você pode clonar este repositório para sua máquina local usando o seguinte comando:
